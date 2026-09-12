@@ -301,15 +301,15 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@angular/common@npm:^18.0.0":
-  version: 18.2.14
-  resolution: "@angular/common@npm:18.2.14"
+"@angular/common@npm:^20.3.28":
+  version: 20.3.28
+  resolution: "@angular/common@npm:20.3.28"
   dependencies:
     tslib: "npm:^2.3.0"
   peerDependencies:
-    "@angular/core": 18.2.14
+    "@angular/core": 20.3.28
     rxjs: ^6.5.3 || ^7.4.0
-  checksum: 10c0/d8c92608ff839cb1d4a7db560f37173b1ee3ae3ba45f6e0620bad168338a361b82762fd63dc347b29f3e985ce93e4c6e90022db0e47ca921a400b63efdaa9a31
+  checksum: 10c0/3d0003713a02c4e26b03ccce1f670aa937788962b678aee1e5a20592a3078202a9b30f123048eaab2cf6d948468a3dc5b17a558ce96bc8b4cd4152b0daf3537b
   languageName: node
   linkType: hard
 
@@ -7244,7 +7244,7 @@ __metadata:
   dependencies:
     "@angular-devkit/build-angular": "npm:^18.0.0"
     "@angular/cli": "npm:^18.0.0"
-    "@angular/common": "npm:^18.0.0"
+    "@angular/common": "npm:^20.3.28"
     "@angular/compiler": "npm:^18.0.0"
     "@angular/compiler-cli": "npm:^18.0.0"
     "@angular/core": "npm:^18.0.0"
